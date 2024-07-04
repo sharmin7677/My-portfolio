@@ -8,3 +8,10 @@ body{
     background-color: #080808;
     color: #fff;
 }
+#header{
+    width: 100px;
+    height: 100px;
+    background-image: url(naid.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
